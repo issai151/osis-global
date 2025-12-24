@@ -5,11 +5,9 @@
 }
 
 body {
-  font-family: 'Segoe UI', system-ui, sans-serif;
-  background: linear-gradient(135deg, #020617, #0f172a);
-  color: #e5e7eb;
-  min-height: 100vh;
+  background: red !important;
 }
+
 
 header {
   padding: 20px 40px;
