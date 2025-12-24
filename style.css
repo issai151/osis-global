@@ -5,28 +5,20 @@
 }
 
 body {
-  font-family: system-ui, Arial, sans-serif;
   background: linear-gradient(135deg, #020617, #0f172a);
   color: white;
-  min-height: 100vh;
+  font-family: Arial, sans-serif;
 }
-
 header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 40px;
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(10px);
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  text-align: center;
 }
-
 nav a {
-  margin-left: 20px;
+  margin: 0 10px;
   color: white;
   text-decoration: none;
-  font-weight: 600;
 }
-
 .hero {
   text-align: center;
   padding: 120px 20px;
